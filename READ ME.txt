@@ -1,0 +1,14 @@
+File: Assignment 5 - program.cs
+Developer: Gabriel Paquette
+Date: Nov 24, 2016
+Description: The code contains in this project runs the server which listens for clients
+             on a specific port and IP specified in the commandline arguments. When
+             the server connects to a client, the server tries to look up the data
+             specified in the client request. 
+
+HOW TO: Create a folder with any .jpg, .html, .txt, .gif files in it.
+	Run the program via the command-line. (.exe, IP of computer, port number, path to file you created.)
+	Open a new browser and in the URL enter IP:Port/fileName.extention.
+	The contents of the file should display to the screen.
+
+NOTE: This Program used 127.0.0.1 for the IP and 13000 for the Port while testing.
